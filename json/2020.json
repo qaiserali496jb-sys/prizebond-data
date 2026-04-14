@@ -1,1 +1,34 @@
+{
+  "15-08-2020": {
+    "100": {
+      "firstPrizes": ["123456"],
+      "secondPrizes": ["666777", "888999", "111000"],
+      "thirdPrizes": ["000013", "000024", "000035"],
+      "firstPrizeMoney": 700000,
+      "secondPrizeMoney": 200000,
+      "thirdPrizeMoney": 1000,
+      "pdfUrl": "https://raw.githubusercontent.com/qaiserali496jb-sys/prizebond-data/main/pdfs/2020-08-15-100.pdf"
+    },
+    "1500": {
+      "firstPrizes": ["222333"],
+      "secondPrizes": ["444555", "666777", "888999"],
+      "thirdPrizes": ["000111", "000222", "000333"],
+      "firstPrizeMoney": 3000000,
+      "secondPrizeMoney": 1000000,
+      "thirdPrizeMoney": 18500,
+      "pdfUrl": "https://raw.githubusercontent.com/qaiserali496jb-sys/prizebond-data/main/pdfs/2020-08-15-1500.pdf"
+    }
+  },
 
+  "15-07-2020": {
+    "750": {
+      "firstPrizes": ["111222"],
+      "secondPrizes": ["333444", "555666", "777888"],
+      "thirdPrizes": ["000014", "000025", "000036"],
+      "firstPrizeMoney": 1500000,
+      "secondPrizeMoney": 500000,
+      "thirdPrizeMoney": 9300,
+      "pdfUrl": "https://raw.githubusercontent.com/qaiserali496jb-sys/prizebond-data/main/pdfs/2020-07-15-750.pdf"
+    }
+  }
+}
